@@ -1,2 +1,6 @@
 Первый файл
+<<<<<<< HEAD
 Изменение в main ветке
+=======
+Изменение в feature-branch2
+>>>>>>> feature-branch2
